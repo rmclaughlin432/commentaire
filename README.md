@@ -1,2 +1,2 @@
-# commentaire
-A program for sorting and ranking YouTube Comments
+# Commentaire
+Commentaire: An Application for Data Extraction and Text Mining of YouTube Comments
