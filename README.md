@@ -1,6 +1,9 @@
 # Commentaire: An Application for Data Extraction and Text Mining of YouTube Comments
 <a target="_blank" href="https://i.ibb.co/6BzTxJC/commentairelargewhitered.png"><img src="https://i.ibb.co/6BzTxJC/commentairelargewhitered.png" alt="commentairepng" style="max-width:100%;"></a></p>
 
+<strong>Direct Working Link to Commentaire:</strong>
+          https://ytcomments.shinyapps.io/COMMENTAIRECVB/
+
 <strong>Introduction</strong>
 <br>
 YouTube Comments provide insight into users and their opinions. The categories for viewing comments are defined by two categories: Top Comments and Newest First. This is the limit of the comment data analysis on YouTube. Commentaire was created to facilitate an in-depth platform for assessing YouTube comments. It is beneficial for future data statistical analysis research. 
