@@ -4,8 +4,6 @@
 
 #Project by Rory McLaughlin#
 
-#Student Number 40022221#
-
 #This software will endeavour to extract YouTube data and manipulate it into various ways.
 #The data will have many purposes and this will be displayed for the user on screen.
 #Comment data is useful for user metrics and understanding the users and their perspective
@@ -81,8 +79,8 @@ webshot::install_phantomjs())
 #'Authenticate' verifies the developer's API Key
 
 #YouTube Client ID for using YouTube API
-client_id <- "95957533670-4ugu60hgirl72bt43es8o2prmnar7jq7.apps.googleusercontent.com"
-client_secret <- "Cd_aOobODBnDVwf2TAGRs_LX"
+client_id <- 
+client_secret <- 
 
 # YouTube oauth for authenticating ID 
 yt_oauth(app_id = client_id,
@@ -93,7 +91,7 @@ yt_oauth(app_id = client_id,
 # you may be redirected to your browser to verify the software through google accounts
 
 #api key must be created to process YouTube API requests and verification/authentication
-apikey <- "AIzaSyA8Ls-cguzSh_r2D-2LcZdiLbcbZTV8kPc"
+apikey <- 
 
 
 
